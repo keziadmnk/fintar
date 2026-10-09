@@ -1,0 +1,9 @@
+﻿date,amount,type,category,description
+2026-10-01,250000,income,Bakery Sales,Morning bread sales
+2026-10-02,175000,income,Catering,Office snack box order
+2026-10-03,80000,expense,Raw Materials,Butter and flour restock
+2026-10-03,INVALID,expense,Packaging,Bad row - amount not a number
+2026-10-04,120000,income,Online Orders,Marketplace delivery orders
+2026-10-04,45000,expense,Utilities,Gas refill
+2026-10-05,,income,Bakery Sales,Bad row - missing amount
+2026-10-06,300000,income,Catering,Birthday cake order

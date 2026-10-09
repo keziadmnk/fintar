@@ -1,0 +1,8 @@
+date,type,amount,category,description
+2026-10-09,income,320000,Bakery Sales,Pesanan roti manis pagi 40 pcs
+2026-10-09,expense,150000,Raw Materials,Pembelian margarin & ragi instan
+2026-99-99,expense,85000,Utilities,Refill gas LPG (INVALID DATE ERROR ROW)
+2026-10-10,income,480000,Catering,Snack box rapat kantor kelurahan
+2026-10-10,expense,NOT_A_NUMBER,Packaging,Dus kemasan roti kraft (INVALID AMOUNT ERROR ROW)
+2026-10-11,income,210000,Online Orders,Pesanan pastry via aplikasi delivery
+2026-10-11,expense,45000,Logistics,Ongkos kirim kurir instan bahan baku
